@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76d9f5c8-4422-4f42-9c49-5fcc6ca90baf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fondamentaux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_10_Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_11_Alternatives_Multiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_1_entiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_2_NombresDecimaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_3_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_4_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_5_Affichage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_6_Keyboard_Input_Next.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_7_Keyboard_Input_Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_8_Keyboard_Input_Suite2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_9_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp1_affichage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp2CalculSurface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp3AffichageInfos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp4Permutation2Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp5Permutation3Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp6Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp7ChoixLangue.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2idTdcsiBIBhp5YWyTnCbedmuOX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.NombresAVirgule.executor": "Run",
+    "Application.Point_10_Conditions.executor": "Run",
+    "Application.Point_11_Alternatives_Multiples.executor": "Run",
+    "Application.Point_4_Char.executor": "Run",
+    "Application.Point_5_Affichage.executor": "Run",
+    "Application.Point_6_Keyboard_Input.executor": "Run",
+    "Application.Point_7_Keyboard_Input_Suite.executor": "Run",
+    "Application.Point_8_Keyboard_Input_Suite2.executor": "Run",
+    "Application.Point_9_Math.executor": "Run",
+    "Application.Text.executor": "Run",
+    "Application.Tp1_affichage.executor": "Run",
+    "Application.Tp6Age.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Point_11_Alternatives_Multiples">
+    <configuration name="Point_10_Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_1_01_07_2024.cours.Point_10_Conditions" />
+      <module name="java_fondamentaux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee_1_01_07_2024.cours.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point_11_Alternatives_Multiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_1_01_07_2024.cours.Point_11_Alternatives_Multiples" />
+      <module name="java_fondamentaux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee_1_01_07_2024.cours.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point_8_Keyboard_Input_Suite2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_1_01_07_2024.cours.Point_8_Keyboard_Input_Suite2" />
+      <module name="java_fondamentaux" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point_9_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_1_01_07_2024.cours.Point_9_Math" />
+      <module name="java_fondamentaux" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tp6Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_1_01_07_2024.tps.Tp6Age" />
+      <module name="java_fondamentaux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee_1_01_07_2024.tps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Point_11_Alternatives_Multiples" />
+        <item itemvalue="Application.Point_10_Conditions" />
+        <item itemvalue="Application.Tp6Age" />
+        <item itemvalue="Application.Point_9_Math" />
+        <item itemvalue="Application.Point_8_Keyboard_Input_Suite2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d9f5c8-4422-4f42-9c49-5fcc6ca90baf" name="Changes" comment="" />
+      <created>1719819543498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719819543498</updated>
+    </task>
+    <servers />
+  </component>
+</project>
