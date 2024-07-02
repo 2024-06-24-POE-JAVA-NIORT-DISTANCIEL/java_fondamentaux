@@ -7,6 +7,9 @@ public class Point_11_Alternatives_Multiples {
         Scanner keyboard=new Scanner(System.in);
         System.out.print("Votre langue : ");
         String langue=keyboard.nextLine();
+        //System.out.println("Valeur avant conversion : "+langue);
+        langue=langue.toLowerCase();
+        //System.out.println("Valeur après conversion : "+langue);
 
         if(langue.equals("english")){
             System.out.println("Hello");

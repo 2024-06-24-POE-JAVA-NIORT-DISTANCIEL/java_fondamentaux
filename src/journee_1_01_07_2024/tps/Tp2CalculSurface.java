@@ -8,7 +8,7 @@ public class Tp2CalculSurface {
         System.out.print("Entrez le diamètre du cercle : ");
         double diametre = keyboard.nextDouble();
         double rayon = diametre / 2;
-        double surface = rayon * rayon * Math.PI;
+        double surface = Math.pow(rayon,2) * Math.PI;
         System.out.printf("La surface du cercle est : %.2f\n", surface);
         keyboard.close();
     }
