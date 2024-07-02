@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d9f5c8-4422-4f42-9c49-5fcc6ca90baf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_12_SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp8PariteEtSigne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp8PariteEtSigneV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp9NomMois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp9NomMoisV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/cours/Point1BouclesFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/TP1Equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp2TableMulti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_11_Alternatives_Multiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/cours/Point_11_Alternatives_Multiples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp2CalculSurface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp2CalculSurface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp7ChoixLangue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_1_01_07_2024/tps/Tp7ChoixLangue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.NombresAVirgule.executor": "Run",
+    "Application.Point1BouclesFor.executor": "Run",
     "Application.Point_10_Conditions.executor": "Run",
     "Application.Point_11_Alternatives_Multiples.executor": "Run",
     "Application.Point_4_Char.executor": "Run",
@@ -52,8 +47,10 @@
     "Application.Point_7_Keyboard_Input_Suite.executor": "Run",
     "Application.Point_8_Keyboard_Input_Suite2.executor": "Run",
     "Application.Point_9_Math.executor": "Run",
+    "Application.TP1Equation.executor": "Run",
     "Application.Text.executor": "Run",
     "Application.Tp1_affichage.executor": "Run",
+    "Application.Tp2TableMulti.executor": "Run",
     "Application.Tp6Age.executor": "Run",
     "Application.Tp8PariteEtSigneV2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,13 +62,13 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Tp8PariteEtSigneV2">
-    <configuration name="Point_10_Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_1_01_07_2024.cours.Point_10_Conditions" />
+  <component name="RunManager" selected="Application.Tp2TableMulti">
+    <configuration name="Point1BouclesFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_2_02_07_2024.cours.Point1BouclesFor" />
       <module name="java_fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee_1_01_07_2024.cours.*" />
+          <option name="PATTERN" value="journee_2_02_07_2024.cours.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,19 +89,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point_9_Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_1_01_07_2024.cours.Point_9_Math" />
+    <configuration name="TP1Equation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_2_02_07_2024.tps.TP1Equation" />
       <module name="java_fondamentaux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee_2_02_07_2024.tps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp6Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_1_01_07_2024.tps.Tp6Age" />
+    <configuration name="Tp2TableMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_2_02_07_2024.tps.Tp2TableMulti" />
       <module name="java_fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee_1_01_07_2024.tps.*" />
+          <option name="PATTERN" value="journee_2_02_07_2024.tps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tp2TableMulti" />
+        <item itemvalue="Application.Point1BouclesFor" />
+        <item itemvalue="Application.TP1Equation" />
         <item itemvalue="Application.Tp8PariteEtSigneV2" />
         <item itemvalue="Application.Point_11_Alternatives_Multiples" />
-        <item itemvalue="Application.Point_10_Conditions" />
-        <item itemvalue="Application.Tp6Age" />
-        <item itemvalue="Application.Point_9_Math" />
       </list>
     </recent_temporary>
   </component>
