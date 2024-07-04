@@ -1,4 +1,4 @@
-package journee_3_3_07_2024.cours;
+package journee_3_03_07_2024.cours;
 
 public class Point1Tableaux {
     public static void main(String[] args) {

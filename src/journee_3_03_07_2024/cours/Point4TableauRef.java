@@ -1,4 +1,4 @@
-package journee_3_3_07_2024.cours;
+package journee_3_03_07_2024.cours;
 
 import java.util.Arrays;
 import java.util.Scanner;

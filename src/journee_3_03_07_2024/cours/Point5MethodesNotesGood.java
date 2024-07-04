@@ -1,24 +1,28 @@
-package journee_3_3_07_2024.cours;
+package journee_3_03_07_2024.cours;
 
-public class Point5MethodesNotesDuplications {
-    public static void main(String[] args) {
-       //Physique
-        double[] notesPhysique={12,18,15,17,9.5,2.3};
-        double sommePhysique=0;
-        for(int i=0;i<notesPhysique.length;i++){
-            sommePhysique +=notesPhysique[i];
+public class Point5MethodesNotesGood {
+
+    public static double calculSomme(double[] notes){
+        double resultat=0;//[12,14,8]
+        for(double note:notes){
+            resultat +=note;
         }
+        return resultat;
+    }
+
+    public static void main(String[] args) {
+        //Physique
+        double[] notesPhysique={12,18,15,17,9.5,2.3};
+        double sommePhysique=calculSomme(notesPhysique);
+
         double moyennePhysique=sommePhysique/notesPhysique.length;
 
         System.out.println("Somme physique : "+sommePhysique);
         System.out.println("Moyenne physique : "+moyennePhysique);
 
-       //Histoire
+        //Histoire
         double[] notesHistoire={12,18,15,17,9.5,2.3};
-        double sommeHistoire=0;
-        for(int i=0;i<notesHistoire.length;i++){
-            sommeHistoire +=notesHistoire[i];
-        }
+        double sommeHistoire=calculSomme(notesHistoire);
         double moyenneHistoire=sommeHistoire/notesHistoire.length;
 
         System.out.println("Somme Histoire: "+sommeHistoire);
@@ -28,10 +32,7 @@ public class Point5MethodesNotesDuplications {
 
         //Histoire
         double[] notesMath={12,18,15,17,9.5,2.3};
-        double sommeMath=0;
-        for(int i=0;i<notesMath.length;i++){
-            sommeMath +=notesHistoire[i];
-        }
+        double sommeMath=calculSomme(notesMath);
         double moyenneMath=sommeMath/notesMath.length;
 
         System.out.println("Somme Math: "+sommeMath);

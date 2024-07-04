@@ -5,35 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d9f5c8-4422-4f42-9c49-5fcc6ca90baf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/cours/Point2DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/cours/Point3While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/cours/Point4TestInsideWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp3TableMulti2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp4Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp5FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp6MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp7Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp8NombreParfait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp9ReverseInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point1Tableaux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point2TableauxSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point3TableauxDynamiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point4TableauRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point5MethodesNotesDuplications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point5MethodesNotesGood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point6MethodesCalculs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp1NotesCoursTableauxDynamiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp2NotesCoursTableauxStatiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp3Factorielle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp4NombreParfait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp5Parite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp6CompteurPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp7Coordonnees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp8RechercheNombre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp8RechercheNombreFonction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/tps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/cours/encapsulation/BrowserBad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/cours/encapsulation/BrowserGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/cours/encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/cours/encapsulation/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/cours/livre/Livre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/cours/livre/LivreMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/cours/livre/PointIntroPOOBad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/cours/livre/QuestionsCours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/tps/rectangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_4_04_07_2024/tps/rectangle/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp2TableMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_2_02_07_2024/tps/Tp2TableMulti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point1Tableaux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/cours/Point1Tableaux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point2TableauxSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/cours/Point2TableauxSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point3TableauxDynamiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/cours/Point3TableauxDynamiques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point4TableauRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/cours/Point4TableauRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point5MethodesNotesDuplications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/cours/Point5MethodesNotesDuplications.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point5MethodesNotesGood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/cours/Point5MethodesNotesGood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/cours/Point6MethodesCalculs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/cours/Point6MethodesCalculs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp1NotesCoursTableauxDynamiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp1NotesCoursTableauxDynamiques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp2NotesCoursTableauxStatiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp2NotesCoursTableauxStatiques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp3Factorielle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp3Factorielle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp4NombreParfait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp4NombreParfait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp5Parite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp5Parite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp6CompteurPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp6CompteurPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp7Coordonnees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp7Coordonnees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp8RechercheNombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp8RechercheNombre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/Tp8RechercheNombreFonction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/Tp8RechercheNombreFonction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/journee_3_3_07_2024/tps/tps.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_3_03_07_2024/tps/tps.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +60,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LivreMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NombresAVirgule.executor": "Run",
     "Application.Point1BouclesFor.executor": "Run",
@@ -81,6 +81,7 @@
     "Application.Point_7_Keyboard_Input_Suite.executor": "Run",
     "Application.Point_8_Keyboard_Input_Suite2.executor": "Run",
     "Application.Point_9_Math.executor": "Run",
+    "Application.QuestionsCours.executor": "Run",
     "Application.TP1Equation.executor": "Run",
     "Application.Text.executor": "Run",
     "Application.Tp1NotesCoursTableauxDynamiques.executor": "Run",
@@ -90,6 +91,7 @@
     "Application.Tp3TableMulti2.executor": "Run",
     "Application.Tp6Age.executor": "Run",
     "Application.Tp8PariteEtSigneV2.executor": "Run",
+    "Application.journee_4_04_07_2024.cours.encapsulation.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -100,13 +102,13 @@
     "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point6MethodesCalculs">
-    <configuration name="Point4TableauRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_3_3_07_2024.cours.Point4TableauRef" />
+  <component name="RunManager" selected="Application.journee_4_04_07_2024.cours.encapsulation.Main">
+    <configuration name="LivreMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_4_04_07_2024.cours.livre.LivreMain" />
       <module name="java_fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee_3_3_07_2024.cours.*" />
+          <option name="PATTERN" value="journee_4_04_07_2024.cours.livre.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point5MethodesNotesDuplications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_3_3_07_2024.cours.Point5MethodesNotesDuplications" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_4_04_07_2024.tps.rectangle.Main" />
       <module name="java_fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee_3_3_07_2024.cours.*" />
+          <option name="PATTERN" value="journee_4_04_07_2024.tps.rectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +130,11 @@
       </method>
     </configuration>
     <configuration name="Point6MethodesCalculs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_3_3_07_2024.cours.Point6MethodesCalculs" />
+      <option name="MAIN_CLASS_NAME" value="journee_3_03_07_2024.cours.Point6MethodesCalculs" />
       <module name="java_fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee_3_3_07_2024.cours.*" />
+          <option name="PATTERN" value="journee_3_03_07_2024.cours.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp1NotesCoursTableauxDynamiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_3_3_07_2024.tps.Tp1NotesCoursTableauxDynamiques" />
+    <configuration name="QuestionsCours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_4_04_07_2024.cours.livre.QuestionsCours" />
       <module name="java_fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee_3_3_07_2024.tps.*" />
+          <option name="PATTERN" value="journee_4_04_07_2024.cours.livre.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tp2NotesCoursTableauxStatiques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_3_3_07_2024.tps.Tp2NotesCoursTableauxStatiques" />
+    <configuration name="journee_4_04_07_2024.cours.encapsulation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_4_04_07_2024.cours.encapsulation.Main" />
       <module name="java_fondamentaux" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="journee_3_3_07_2024.tps.*" />
+          <option name="PATTERN" value="journee_4_04_07_2024.cours.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.journee_4_04_07_2024.cours.encapsulation.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LivreMain" />
+        <item itemvalue="Application.QuestionsCours" />
         <item itemvalue="Application.Point6MethodesCalculs" />
-        <item itemvalue="Application.Point5MethodesNotesDuplications" />
-        <item itemvalue="Application.Point4TableauRef" />
-        <item itemvalue="Application.Tp1NotesCoursTableauxDynamiques" />
-        <item itemvalue="Application.Tp2NotesCoursTableauxStatiques" />
       </list>
     </recent_temporary>
   </component>

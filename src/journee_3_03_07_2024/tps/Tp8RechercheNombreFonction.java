@@ -1,4 +1,4 @@
-package journee_3_3_07_2024.tps;
+package journee_3_03_07_2024.tps;
 
 import java.util.Scanner;
 

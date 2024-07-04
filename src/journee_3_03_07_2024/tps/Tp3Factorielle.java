@@ -1,4 +1,4 @@
-package journee_3_3_07_2024.tps;
+package journee_3_03_07_2024.tps;
 
 public class Tp3Factorielle {
     public static long factorielle(int n) {
