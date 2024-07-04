@@ -11,7 +11,7 @@ public class Tp2TableMulti {
         System.out.println("Table de "+nombre);
         System.out.println("============\n");
         for (int i = 1; i <=11 ; i++) {
-            System.out.printf("%d x %d = %d\n",nombre,i,(nombre*1));
+            System.out.printf("%d x %d = %d\n",nombre,i,(nombre*i));
         }
     }
 }
