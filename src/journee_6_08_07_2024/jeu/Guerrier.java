@@ -1,4 +1,4 @@
-package journee_4_04_07_2024.cours.jeu;
+package journee_5_05_07_2024.cours.jeu;
 
 public class Guerrier extends Personnage{
     private String arme;
@@ -6,6 +6,7 @@ public class Guerrier extends Personnage{
     public Guerrier(String nom, int dureeDeVie, String arme) {
         super(nom,dureeDeVie);
         this.arme = arme;
+        this.x=0;
     }
 
 

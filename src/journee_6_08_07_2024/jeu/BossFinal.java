@@ -1,0 +1,2 @@
+package journee_6_08_07_2024.jeu;public class BossFinal {
+}
