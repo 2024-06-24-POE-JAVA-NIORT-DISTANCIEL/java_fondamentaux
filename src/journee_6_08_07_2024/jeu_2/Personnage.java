@@ -1,19 +1,25 @@
-package journee_6_08_07_2024.jeu;
+package journee_6_08_07_2024.jeu_2;
 
 public abstract class Personnage {
     private String nom;
     private int dureeDeVie;
+    private static int nombrePersonnage=0;
 
     public Personnage(String nom, int dureeDeVie) {
         this.nom = nom;
         this.dureeDeVie = dureeDeVie;
+        nombrePersonnage++;
+    }
+
+    public static int getNombrePersonnage(){
+        return nombrePersonnage;
     }
 
     public String getNom() {
         return nom;
     }
 
-    public void setNom(String nom) {
+    public final void setNom(String nom) {
         this.nom = nom;
     }
 
@@ -25,6 +31,8 @@ public abstract class Personnage {
         this.dureeDeVie = dureeDeVie;
     }
 
-    public abstract void attaquer();
-    public abstract void defendre();
+    @Override
+    public String toString() {
+        return String.format("Nom : %s\nDurée de vie : %d",nom,dureeDeVie);
+    }
 }

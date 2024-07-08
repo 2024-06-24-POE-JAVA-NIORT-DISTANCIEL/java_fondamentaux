@@ -1,4 +1,4 @@
-package journee_5_05_07_2024.cours.jeu;
+package journee_6_08_07_2024.jeu;
 
 public abstract class Personnage {
     private String nom;
@@ -24,4 +24,7 @@ public abstract class Personnage {
     public void setDureeDeVie(int dureeDeVie) {
         this.dureeDeVie = dureeDeVie;
     }
+
+    public abstract void attaquer();
+    public abstract void defendre();
 }

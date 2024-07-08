@@ -1,8 +1,8 @@
-package journee_6_08_07_2024.jeu;
+package journee_6_08_07_2024.jeu_2;
 
 
 // final : Signifiue que cette classe ne peut pas être étendue
-public final class BossFinal extends Personnage{
+public final class BossFinal extends Personnage implements Combattant{
     private int niveauDePuissance;
 
     public BossFinal(String nom, int dureeDeVie,int niveauDePuissance) {
