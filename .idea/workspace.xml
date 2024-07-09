@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d9f5c8-4422-4f42-9c49-5fcc6ca90baf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/tps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/tps/bibliotheque/Auteur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/tps/bibliotheque/Bibliotheque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/tps/bibliotheque/Exemplaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/tps/bibliotheque/Oeuvre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/tps/construction/Batiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/tps/construction/Habitable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/tps/construction/Maison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/armes/Arme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/armes/Arme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/armes/Epee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/armes/Epee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/armes/Lance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/armes/Lance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/BossEnfant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/BossEnfant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/BossFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/BossFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/Guerrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/Guerrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/Magicien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/Magicien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu/Personnage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/BossFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/BossFinal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Combattant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Combattant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Guerrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Guerrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Magicien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Magicien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/PNJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/PNJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Personnage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu_2/Personnage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,20 +99,7 @@
       <recent name="$PROJECT_DIR$/src/journee_6_08_07_2024/jeu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.journee_6_08_07_2024.jeu_2.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="journee_4_04_07_2024.tps.rectangle.Main" />
-      <module name="java_fondamentaux" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="journee_4_04_07_2024.tps.rectangle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.journee_6_08_07_2024.tps.Main">
     <configuration name="MainPersonne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="journee_4_04_07_2024.cours.MainPersonne" />
       <module name="java_fondamentaux" />
@@ -173,13 +152,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="journee_6_08_07_2024.tps.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="journee_6_08_07_2024.tps.Main" />
+      <module name="java_fondamentaux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="journee_6_08_07_2024.tps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.journee_6_08_07_2024.tps.Main" />
         <item itemvalue="Application.journee_6_08_07_2024.jeu_2.Main" />
         <item itemvalue="Application.journee_6_08_07_2024.jeu.Main" />
         <item itemvalue="Application.MainPersonne" />
         <item itemvalue="Application.journee_4_04_07_2024.cours.encapsulation.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
